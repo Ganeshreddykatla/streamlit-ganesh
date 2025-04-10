@@ -11,7 +11,7 @@ client = AzureOpenAI(
     azure_endpoint="https://cybersofttrainingday2.openai.azure.com"
 )
 
-st.title("🧠 Multi Modal Chatbot")
+st.title("🧠 Ganesh's - Multi Modal Chatbot")
 
 # Session State Initialization
 if "messages" not in st.session_state:

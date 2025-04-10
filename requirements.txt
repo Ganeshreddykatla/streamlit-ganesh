@@ -4,3 +4,8 @@ pandas
 pdfplumber
 tabulate
 openpyxl
+python-dotenv
+Pillow
+python-dotenv
+Pillow
+
